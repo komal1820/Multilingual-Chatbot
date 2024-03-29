@@ -1,13 +1,13 @@
 # Multilingual-Chatbot
-Description:
+# Description:
 
 This project presents a versatile chatbot designed to assist university students, faculty, and staff. It leverages speech-to-text capabilities and advanced NLP techniques to provide a convenient and accessible way to interact with the university system. The chatbot offers high accuracy (around 96%) in understanding and responding to inquiries, making it a valuable resource for the university community.
 
-Key Features:
+# Key Features:
 
 Speech-to-Text Support: Enables users to interact with the chatbot through voice commands, enhancing accessibility for those with visual impairments or who prefer hands-free communication.
 
-Multilingual Support: Accommodates users with different Indian language preferences.
+Multilingual Support : Accommodates users with different Indian language preferences.
 
 NLP Techniques: Employs tokenization, stemming, lemmatization, and bag-of-words for robust text analysis.
 
@@ -17,7 +17,7 @@ University-Specific Focus: Tailored responses and information pertinent to unive
 
 Graphical User Interface: Provides a user-friendly interface for those who prefer text-based interaction( Tkinter).
 
-Technologies Used:
+# Technologies Used:
 
 Python
 
@@ -27,7 +27,7 @@ Keras
 
 Tkinter 
 
-Pre-processing Steps:
+# Pre-processing Steps:
 
 Tokenization: Converts sentences into lists of words, removing whitespace and tabs.
 
@@ -39,18 +39,18 @@ Punctuation Removal: Focuses on word meaning rather than grammatical symbols.
 
 Stemming/Lemmatization: Reduces words to their base forms.
 
-Neural Network Model:
+# Neural Network Model:
 
 Design and train a neural network architecture suitable for chatbot predictions (details vary based on implementation).
 
 Consider using a pre-trained language model (e.g., BERT, BART) for advanced NLP capabilities.
 
-GUI :
+# GUI :
 
 Tkinter facilitates the creation of a user-friendly GUI for interacting with the chatbot.
 
 Customize GUI elements (text boxes, buttons) as needed.
 
-Contributing:
+# Contributing:
 
 We welcome contributions to this project! Feel free to create pull requests for bug fixes, enhancements, or new features.
